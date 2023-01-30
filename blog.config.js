@@ -16,8 +16,8 @@ const BLOG = {
   KEYWORDS: 'Notion, 博客', // 网站关键词 英文逗号隔开
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
   CONTACT_EMAIL: 'hawchow@qq.com', // 邮箱
-  CONTACT_WEIBO: '', // 你的微博个人主页
-  CONTACT_TWITTER: '', // 你的twitter个人主页
+  CONTACT_WEIBO: 'https://weibo.com/u/1874499582', // 你的微博个人主页
+  CONTACT_TWITTER: 'https://twitter.com/OtulmDdiqcIMrzz?t=rFLyOhyjXTo7rRJB7CBD9A&s=09', // 你的twitter个人主页
   CONTACT_GITHUB: 'https://github.com/hawchou1995', // 你的github个人主页
   CONTACT_TELEGRAM: 'https://t.me/xauthub', // 你的telegram 地址 例如 https://t.me/tangly_1024
   CONTACT_LINKEDIN: '', // 你的linkedIn 首页
