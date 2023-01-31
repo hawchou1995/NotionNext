@@ -7,7 +7,7 @@ const BLOG = {
   THEME: process.env.NEXT_PUBLIC_THEME || 'next', // 主题， 支持 ['next','hexo',"fukasawa','medium','example'] @see https://preview.tangly1024.com
   THEME_SWITCH: process.env.NEXT_PUBLIC_THEME_SWITCH || false, // 是否显示切换主题按钮
   LANG: 'zh-CN', // e.g 'zh-CN','en-US'  see /lib/lang.js for more.
-  SINCE: 2022, // e.g if leave this empty, current year will be used.
+  SINCE: 2019, // e.g if leave this empty, current year will be used.
   APPEARANCE: 'light', // ['light', 'dark', 'auto'], // light 日间模式 ， dark夜间模式， auto根据时间和主题自动夜间模式
 
   AUTHOR: '情报总橘', // 作者
@@ -20,7 +20,7 @@ const BLOG = {
   CONTACT_TWITTER: 'https://twitter.com/OtulmDdiqcIMrzz?t=rFLyOhyjXTo7rRJB7CBD9A&s=09', // 你的twitter个人主页
   CONTACT_GITHUB: 'https://github.com/hawchou1995', // 你的github个人主页
   CONTACT_TELEGRAM: 'https://t.me/xauthub', // 你的telegram 地址 例如 https://t.me/tangly_1024
-  CONTACT_LINKEDIN: 'www.linkedin.com/in/xauthub', // 你的linkedIn 首页
+  CONTACT_LINKEDIN: 'https://www.linkedin.com/in/xauthub', // 你的linkedIn 首页
 
   // 网站默认使用PingFangSC及NotoSansSC，
   // 如需自定义字体，请将CUSTOM_FONT改为 true，并将CUSTOM_FONT_URL改为你的字体CSS地址，同时在CUSTOM_FONT_SANS与CUSTOM_FONT_SERIF中指定你的font-family
