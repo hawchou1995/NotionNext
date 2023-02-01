@@ -6,8 +6,8 @@ const CONFIG_NEXT = {
   NAV_TYPE: 'normal', // ['fixed','autoCollapse','normal'] 分别是固定屏幕顶部、屏幕顶部自动折叠，不固定
 
   POST_LIST_COVER: true, // 文章列表显示封面图
-  POST_LIST_PREVIEW: true, // 显示文章预览
-  POST_LIST_SUMMARY: false, // 显示用户自定义摘要，有预览时优先只展示预览
+  POST_LIST_PREVIEW: false, // 显示文章预览
+  POST_LIST_SUMMARY: true, // 显示用户自定义摘要，有预览时优先只展示预览
 
   POST_HEADER_IMAGE_VISIBLE: false, // 文章详情页是否显示封面图
 
